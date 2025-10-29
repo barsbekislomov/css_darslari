@@ -1,0 +1,10 @@
+# OS kesh/lokal fayllar
+.DS_Store
+Thumbs.db
+
+# VS Code sozlamalari
+.vscode/
+
+# Log va vaqtinchalik fayllar
+*.log
+*.tmp
